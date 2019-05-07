@@ -1,0 +1,13 @@
+http://httpbin.org/
+http://google.com/
+foo
+http://httpbin.org/headers/
+http://httpbin.org/get/
+http://httpbin.org/ip/
+http://httpbin.org/cookies/
+http://httpbin.org/basic-auth/test/user/
+http://httpbin.org/html/
+http://httpbin.org/xml/
+http://httpbin.org/cache/
+https://httpbin.org/
+https://google.com/
